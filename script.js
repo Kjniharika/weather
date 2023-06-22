@@ -39,4 +39,4 @@ document.querySelector(".search-bar")
 weather.search();
 }
 });
-weather.fetchWeather("Denver");
+weather.fetchWeather("Visakhapatnam");
